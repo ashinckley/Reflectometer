@@ -15,7 +15,8 @@ This project is a DIY Light Reflectometer using the TSL2591 Digital Light Sensor
 
 - TSL2591 Digital Light Sensor
 - SSD1306 OLED Display
-- Arduino board
+- Arduino (nano) board
+- LED
 - Connecting wires
 
 ## Wiring
